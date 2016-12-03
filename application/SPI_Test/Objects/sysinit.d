@@ -1,5 +1,5 @@
 .\objects\sysinit.o: RTE\Device\LPC1549JBD64\sysinit.c
-.\objects\sysinit.o: D:\LPC_Working_projects\application\SPI_Test\RTE\RTE_Components.h
+.\objects\sysinit.o: D:\LPC_projects\application\SPI_Test\RTE\RTE_Components.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_15xx\chip.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_common\lpc_types.h
 .\objects\sysinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

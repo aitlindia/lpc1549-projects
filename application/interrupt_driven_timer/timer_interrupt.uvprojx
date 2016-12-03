@@ -419,12 +419,12 @@
             <File>
               <FileName>board_nxp_lpcxpresso_1549.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>..\..\sw\lib\board_nxp_lpcxpresso_1549.lib</FilePath>
+              <FilePath>..\..\sw\lpc_core\lpc_board\boards_15xx\nxp_lpcxpresso_1549\keil_output\board_nxp_lpcxpresso_1549.lib</FilePath>
             </File>
             <File>
               <FileName>chip_15xx_lib.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>..\..\sw\lib\chip_15xx_lib.lib</FilePath>
+              <FilePath>..\..\sw\lpc_core\lpc_chip\chip_15xx\keil_output\chip_15xx_lib\chip_15xx_lib.lib</FilePath>
             </File>
           </Files>
         </Group>

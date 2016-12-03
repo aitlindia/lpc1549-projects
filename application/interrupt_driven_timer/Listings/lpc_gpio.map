@@ -1693,8 +1693,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Library Member Name
 
-       218         16         29          0          0      15323   board.o
-       160         18        124          0          0      15321   board_sysinit.o
+       218         16         29          0          0      15307   board.o
+       160         18        124          0          0      15301   board_sysinit.o
          8          0          0          0          0         68   __main.o
          0          0          0          0          0          0   __rtentry.o
         12          0          0          0          0          0   __rtentry2.o
@@ -1732,30 +1732,30 @@ Image component sizes
         74          0          0          0          0         80   sys_stackheap_outer.o
         14          0          0          0          0         76   sys_wrch.o
          2          0          0          0          0         68   use_no_semi.o
-        16          4          0          4          0        686   chip_15xx.o
-       448         72          0          0          0      15482   clock_15xx.o
-        70          0          0          0          0      10607   gpio_15xx.o
-        36          0          0          0          0       2178   iocon_15xx.o
-        30          0          0          0          0       4180   sct_15xx.o
-        36          6          0          0          0        600   swm_15xx.o
-       128         28          0          0          0       9064   sysctl_15xx.o
-       124          8          0          0          0      12537   sysinit_15xx.o
-       188         18          0          0          0      12032   uart_15xx.o
+        16          4          0          4          0        638   chip_15xx.o
+       448         72          0          0          0      15122   clock_15xx.o
+        70          0          0          0          0      10511   gpio_15xx.o
+        36          0          0          0          0       2106   iocon_15xx.o
+        30          0          0          0          0       7752   sct_15xx.o
+        36          6          0          0          0        576   swm_15xx.o
+       128         28          0          0          0       8944   sysctl_15xx.o
+       124          8          0          0          0      12441   sysinit_15xx.o
+       188         18          0          0          0      11684   uart_15xx.o
 
     ----------------------------------------------------------------------
-      2702        244        156          4         96     100006   Library Totals
+      2702        244        156          4         96     102378   Library Totals
         14          0          3          0          0          0   (incl. Padding)
 
     ----------------------------------------------------------------------
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Library Name
 
-       378         34        153          0          0      30644   board_nxp_lpcxpresso_1549.lib
+       378         34        153          0          0      30608   board_nxp_lpcxpresso_1549.lib
       1234         74          0          0         96       1996   c_w.l
-      1076        136          0          4          0      67366   chip_15xx_lib.lib
+      1076        136          0          4          0      69774   chip_15xx_lib.lib
 
     ----------------------------------------------------------------------
-      2702        244        156          4         96     100006   Library Totals
+      2702        244        156          4         96     102378   Library Totals
 
     ----------------------------------------------------------------------
 
@@ -1764,8 +1764,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-      4868        478        472         68      25700     184307   Grand Totals
-      4868        478        472         68      25700     184307   ELF Image Totals
+      4868        478        472         68      25700     186679   Grand Totals
+      4868        478        472         68      25700     186679   ELF Image Totals
       4868        478        472         68          0          0   ROM Totals
 
 ==============================================================================

@@ -486,13 +486,13 @@ ARM Macro Assembler    Page 8
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=.\objects\keil_startup_lpc15xx.d -o.\objects\keil_startup_lpc15xx.
-o -IC:\Keil_v5\ARM\RV31\Inc -ID:\LPC_Working_projects\application\SPI_Test\RTE 
--ID:\LPC_Working_projects\application\SPI_Test\RTE\Device\LPC1549JBD64 -IC:\Kei
-l_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include -IC:\Keil_v5\ARM\PACK\Keil\LPC1500_
-DFP\1.2.0\LPCOpen\software\lpc_core\lpc_chip\chip_15xx --predefine="__RTX SETA 
-1" --predefine="__UVISION_VERSION SETA 517" --predefine="_RTE_ SETA 1" --predef
-ine="LPC1549JBD64 SETA 1" --list=.\listings\keil_startup_lpc15xx.lst RTE\Device
-\LPC1549JBD64\keil_startup_lpc15xx.s
+o -IC:\Keil_v5\ARM\RV31\Inc -ID:\LPC_projects\application\SPI_Test\RTE -ID:\LPC
+_projects\application\SPI_Test\RTE\Device\LPC1549JBD64 -IC:\Keil_v5\ARM\PACK\AR
+M\CMSIS\5.0.0\CMSIS\Include -IC:\Keil_v5\ARM\PACK\Keil\LPC1500_DFP\1.2.0\LPCOpe
+n\software\lpc_core\lpc_chip\chip_15xx --predefine="__RTX SETA 1" --predefine="
+__UVISION_VERSION SETA 517" --predefine="_RTE_ SETA 1" --predefine="LPC1549JBD6
+4 SETA 1" --list=.\listings\keil_startup_lpc15xx.lst RTE\Device\LPC1549JBD64\ke
+il_startup_lpc15xx.s
 
 
 

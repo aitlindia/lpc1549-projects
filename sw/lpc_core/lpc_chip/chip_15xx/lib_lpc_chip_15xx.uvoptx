@@ -77,17 +77,17 @@
         <tvExpOptDlg>0</tvExpOptDlg>
         <IsCurrentTarget>1</IsCurrentTarget>
       </OPTFL>
-      <CpuCode>0</CpuCode>
+      <CpuCode>8</CpuCode>
       <Books>
         <Book>
           <Number>0</Number>
           <Title>Schematics (MCB1500)</Title>
-          <Path>C:\Keil_v5\ARM\PACK\Keil\MCB1500_BSP\1.1.0\Documents\MCB1500schematics 1.1.PDF</Path>
+          <Path>C:\Keil_v5\ARM\PACK\Keil\MCB1500_BSP\1.2.0\Documents\MCB1500schematics 1.1.PDF</Path>
         </Book>
         <Book>
           <Number>1</Number>
           <Title>User Manual (MCB1500)</Title>
-          <Path>C:\Keil_v5\ARM\PACK\Keil\MCB1500_BSP\1.1.0\Documents\mcb1500.chm</Path>
+          <Path>C:\Keil_v5\ARM\PACK\Keil\MCB1500_BSP\1.2.0\Documents\mcb1500.chm</Path>
         </Book>
         <Book>
           <Number>2</Number>
@@ -180,7 +180,7 @@
 
   <Group>
     <GroupName>csp</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>

@@ -191,7 +191,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\sw\lib\board_nxp_lpcxpresso_1549.lib</PathWithFileName>
+      <PathWithFileName>..\..\sw\lpc_core\lpc_board\boards_15xx\nxp_lpcxpresso_1549\keil_output\board_nxp_lpcxpresso_1549.lib</PathWithFileName>
       <FilenameWithoutPath>board_nxp_lpcxpresso_1549.lib</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -203,7 +203,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\sw\lib\chip_15xx_lib.lib</PathWithFileName>
+      <PathWithFileName>..\..\sw\lpc_core\lpc_chip\chip_15xx\keil_output\chip_15xx_lib\chip_15xx_lib.lib</PathWithFileName>
       <FilenameWithoutPath>chip_15xx_lib.lib</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -256,7 +256,7 @@
 
   <Group>
     <GroupName>FreeRTOS</GroupName>
-    <tvExp>1</tvExp>
+    <tvExp>0</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
