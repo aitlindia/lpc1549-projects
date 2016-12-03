@@ -178,7 +178,7 @@
           </Flash1>
           <bUseTDR>1</bUseTDR>
           <Flash2>BIN\UL2CM3.DLL</Flash2>
-          <Flash3></Flash3>
+          <Flash3>"" ()</Flash3>
           <Flash4></Flash4>
           <pFcarmOut></pFcarmOut>
           <pFcarmGrp></pFcarmGrp>
@@ -373,7 +373,7 @@
               <MiscControls></MiscControls>
               <Define>CORE_M3</Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\..\..\software\lpc_core\lpc_chip\chip_15xx;..\..\..\..\software\lpc_core\lpc_chip\chip_common;..\..\..\..\software\CMSIS\CMSIS\Include;.\config_15xx</IncludePath>
+              <IncludePath>..\chip_15xx;..\chip_common;.\config_15xx;..\..\..\CMSIS\CMSIS\Include</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

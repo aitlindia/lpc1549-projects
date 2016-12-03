@@ -1726,19 +1726,19 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-         0          0          0          0          0      17024   croutine.o
+         0          0          0          0          0      16952   croutine.o
          0          0          0          0          0       1452   event_groups.o
-        28          6          0          0      24576       2008   freertoscommonhooks.o
-        50          0          0          0          0       1219   heap_3.o
-        64         32        252          0        768        952   keil_startup_lpc15xx.o
-       136          0          0          0          0       3166   list.o
-       828        132        138          0        808      39306   main.o
-       388         52          0          4          0       7093   port.o
-         4          0          0          0          0        433   sysinit.o
-      1128         86          0         56        260      11897   tasks.o
+        28          6          0          0      24576       1960   freertoscommonhooks.o
+        50          0          0          0          0       1195   heap_3.o
+        64         32        252          0        768        928   keil_startup_lpc15xx.o
+       136          0          0          0          0       3094   list.o
+       828        132        138          0        808      39090   main.o
+       388         52          0          4          0       6961   port.o
+         4          0          0          0          0        421   sysinit.o
+      1128         86          0         56        260      11741   tasks.o
 
     ----------------------------------------------------------------------
-      2632        308        424         60      26412      84550   Object Totals
+      2632        308        424         60      26412      83794   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          6          0          2          0          0          0   (incl. Padding)
 
@@ -1819,8 +1819,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-      5772        552        580         64      26512     180790   Grand Totals
-      5772        552        580         64      26512     180790   ELF Image Totals
+      5772        552        580         64      26512     180034   Grand Totals
+      5772        552        580         64      26512     180034   ELF Image Totals
       5772        552        580         64          0          0   ROM Totals
 
 ==============================================================================
