@@ -138,6 +138,11 @@
       <TargetDriverDllRegistry>
         <SetRegEntry>
           <Number>0</Number>
+          <Key>CMSIS_AGDI</Key>
+          <Name>-X"" -O206 -S0 -C0 -P00 -TO18 -TC10000000 -TP20 -TDS8007 -TDT0 -TDC1F -TIEFFFFFFFF -TIP8 -FO7 -FD2000000 -FC1000 -FN1 -FF0LPC15xx_256.FLM -FS00 -FL040000 -FP0($$Device:LPC1549JBD64$Flash\LPC15xx_256.FLM)</Name>
+        </SetRegEntry>
+        <SetRegEntry>
+          <Number>0</Number>
           <Key>UL2CM3</Key>
           <Name>UL2CM3(-S0 -C0 -P0 -FD02000000 -FC1000 -FN1 -FF0LPC15xx_256 -FS00 -FL040000 -FP0($$Device:LPC1549JBD64$Flash\LPC15xx_256.FLM))</Name>
         </SetRegEntry>
