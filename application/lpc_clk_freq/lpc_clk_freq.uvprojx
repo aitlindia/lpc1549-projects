@@ -10,12 +10,11 @@
       <TargetName>Target 1</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
-      <pCCUsed>5060061::V5.06 update 1 (build 61)::ARMCC</pCCUsed>
       <TargetOption>
         <TargetCommonOption>
           <Device>LPC1549JBD64</Device>
           <Vendor>NXP</Vendor>
-          <PackID>Keil.LPC1500_DFP.1.2.0</PackID>
+          <PackID>Keil.LPC1500_DFP.1.0.0</PackID>
           <PackURL>http://www.keil.com/pack/</PackURL>
           <Cpu>IROM(0x00000000,0x40000) IRAM(0x02000000,0x9000) CPUTYPE("Cortex-M3") CLOCK(12000000) ELITTLE</Cpu>
           <FlashUtilSpec></FlashUtilSpec>
@@ -230,7 +229,6 @@
             <useUlib>0</useUlib>
             <EndSel>0</EndSel>
             <uLtcg>0</uLtcg>
-            <nSecure>0</nSecure>
             <RoSelD>3</RoSelD>
             <RwSelD>3</RwSelD>
             <CodeSel>0</CodeSel>
@@ -367,11 +365,9 @@
             <useXO>0</useXO>
             <v6Lang>0</v6Lang>
             <v6LangP>0</v6LangP>
-            <vShortEn>0</vShortEn>
-            <vShortWch>0</vShortWch>
             <VariousControls>
               <MiscControls></MiscControls>
-              <Define></Define>
+              <Define>CORE_M3</Define>
               <Undefine></Undefine>
               <IncludePath>..\..\sw\lpc_core\lpc_board\boards_15xx\nxp_lpcxpresso_1549;..\..\sw\lpc_core\lpc_board\board_common;..\..\sw\lpc_core\lpc_chip\chip_15xx;..\..\sw\lpc_core\lpc_chip\chip_15xx\config_15xx;..\..\sw\lpc_core\lpc_chip\chip_common;..\..\sw\freeRTOS\Source\include;..\..\sw\freeRTOS\Source\portable\RVDS\ARM_CM3;..\..\sw\CMSIS;..\lpc_clk_freq</IncludePath>
             </VariousControls>

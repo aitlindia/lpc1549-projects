@@ -6,9 +6,10 @@
 .\objects\sysinit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_15xx\config_15xx\sys_config.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_15xx\config_15xx\cmsis.h
-.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm3.h
-.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
-.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\sysinit.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_15xx\romapi_15xx.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_common\iap.h
 .\objects\sysinit.o: ..\..\sw\lpc_core\lpc_chip\chip_common\eeprom.h
